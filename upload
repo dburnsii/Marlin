@@ -1,0 +1,1 @@
+arduino-cli upload --fqbn arduino:avr:mega -p /dev/ttyACM0 Marlin -v
